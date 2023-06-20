@@ -7,12 +7,10 @@ function App() {
   return (
     <>
       <Navbar />
-
       <div className="container my-3">
         {/* <TextForm /> */}
         <About/>
       </div>
-      
     </>
   );
 }
