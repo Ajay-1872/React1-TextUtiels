@@ -6,11 +6,13 @@ import Navbar from "./component/Navbar";
 function App() {
   return (
     <>
+
       <Navbar />
       <div className="container my-3">
         {/* <TextForm /> */}
         <About/>
       </div>
+      
     </>
   );
 }
